@@ -14,7 +14,7 @@ python data_uti.py
 Create training and Val data sets in LFW with an upscale factor of 4.
 
 ### Test Image Dataset
-When you run the facedect.py file, it detects your face from the ./data/video/face.mp4 image and saves the detected image once every 10 frames.
+When you run the facedect.py file, it detects your face from the `./data/video/face.mp4` image and saves the detected image once every 10 frames.
 
 
 ### Train
