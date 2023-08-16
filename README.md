@@ -6,7 +6,7 @@ Face detection and SR in cctv images
 ### Train、Val Dataset
 The train and validation datasets use the Labeled Faces in the Wild (LFW) dataset.
 Train dataset has 11910 images and Val dataset has 1323 images.
-Download the datasets from [here][(https://pan.baidu.com/s/1xuFperu2WiYc5-_QXBemlA](https://www.kaggle.com/datasets/jessicali9530/lfw-dataset), 
+Download the datasets from [here][(https://pan.baidu.com/s/1xuFperu2WiYc5-_QXBemlA)](https://www.kaggle.com/datasets/jessicali9530/lfw-dataset), 
 and then extract it into `data` directory. Finally run
 ```
 python data_uti.py
