@@ -31,3 +31,8 @@ python img_gen.py
 ```
 The output high resolution images are on `results` directory.
 
+### View result
+```
+python resultview.py
+```
+
