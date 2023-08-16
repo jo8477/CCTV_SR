@@ -41,3 +41,9 @@ A test dataset is required to compare PSNR.
 ```
 python inggen_PSNRtest.py
 ```
+
+### Hyperparameters
+
+Learning Rate : 0.001 to 0.00001
+Num. of eopchs : 50
+Batch size : 64
