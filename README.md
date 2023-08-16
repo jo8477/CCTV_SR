@@ -36,3 +36,8 @@ The output high resolution images are on `results` directory.
 python resultview.py
 ```
 
+### PSNR Comparison
+A test dataset is required to compare PSNR.
+```
+python inggen_PSNRtest.py
+```
